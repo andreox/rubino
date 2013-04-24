@@ -11,6 +11,6 @@ end
 
 get '/action' do
 
-	"You are in the /action page!"
+	"You are in the /action page! \n This is an example about how to use links using Sinatra."
 
 end
